@@ -32,8 +32,8 @@ $ cd Factory_Management_System
 
 ## :busts_in_silhouette: Collaborators
 - Clark Remon [![@Clark605](https://img.shields.io/badge/GitHub-Clark605-black?logo=github)](https://github.com/Clark605)
-- Kerolos Akmal
-- Lenah Mahmoud
+- Kerolos Akmal 
+- Lenah Mahmoud [![@lenahmahmoud](https://img.shields.io/badge/GitHub-lenahmahmoud-black?logo=github)](https://github.com/lenahmahmoud)
 - Michael Gayed
-- Shimaa Ayman
-- Vivian Boshra
+- Shimaa Ayman [![@ShimaaElsherbiny5](https://img.shields.io/badge/GitHub-ShimaaElsherbiny5-black?logo=github)](https://github.com/ShimaaElsherbiny5)
+- Vivian Boshra [![@VivianBoshra](https://img.shields.io/badge/GitHub-VivianBoshra-black?logo=github)](https://github.com/VivianBoshra)
