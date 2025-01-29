@@ -22,7 +22,18 @@ Our system integrates various aspects of factory management, including employees
 Before starting, you need to have MySQL Community Server and Java installed.
 
 ## :heavy_exclamation_mark: Starting
+```
+# Clone this project
+$ git clone https://github.com/marina5518/Factory_Management_System.git
+
+# Access
+$ cd Factory_Management_System
+```
 
 ## :busts_in_silhouette: Collaborators
-
-
+- Clark Remon [![@Clark605](https://img.shields.io/badge/GitHub-Clark605-black?logo=github)](https://github.com/Clark605)
+- Kerolos Akmal
+- Lenah Mahmoud
+- Michael Gayed
+- Shimaa Ayman
+- Vivian Boshra
